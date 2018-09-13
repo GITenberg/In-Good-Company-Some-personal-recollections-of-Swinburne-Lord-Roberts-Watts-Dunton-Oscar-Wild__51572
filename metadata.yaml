@@ -1,5 +1,8 @@
 _repo: In-Good-Company-Some-personal-recollections-of-Swinburne-Lord-Roberts-Watts-Dunton-Oscar-Wild__51572
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51572-h/images/cover.jpg
 creator:
   author:
     agent_name: Kernahan, Coulson
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46475'
     url: http://www.gutenberg.org/2009/agents/46475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51572#In-Good-Company-Some-personal-recollections-of-Swinburne-Lord-Roberts-Watts-Dunton-Oscar-Wild_
 gutenberg_issued: '2016-03-27'
 gutenberg_type: Text
 identifiers:
